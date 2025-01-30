@@ -1,7 +1,10 @@
-# Remotion video
+
+---
+
+# 🎬 Welcome to Your **Remotion** Project! 🚀  
 
 <p align="center">
-  <a href="https://github.com/remotion-dev/logo">
+  <a href="https://www.remotion.dev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.gif">
       <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
@@ -9,46 +12,46 @@
   </a>
 </p>
 
-Welcome to your Remotion project!
+## 🎥 What is Remotion?  
+**Remotion** is the ultimate tool to create **videos programmatically** using **React**! Build, animate, and render stunning videos with full control over components.  
 
-## Commands
+---
 
-**Install Dependencies**
+## ⚡ Quick Start  
 
-```console
+### 🔧 Install Dependencies  
+```sh
 npm install
 ```
 
-**Start Preview**
-
-```console
+### 🎬 Start Preview Mode  
+```sh
 npm start
 ```
 
-**Render video**
-
-```console
+### 🏗️ Render Your Video  
+```sh
 npm run build
 ```
 
-**Upgrade Remotion**
-
-```console
+### 📦 Upgrade Remotion  
+```sh
 npm run upgrade
 ```
 
-## Docs
+---
 
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
+## 📖 Documentation & Resources  
 
-## Help
+📚 **Learn the fundamentals:** [Official Docs](https://www.remotion.dev/docs/the-fundamentals)  
+💬 **Need help?** Join the [Remotion Discord](https://discord.gg/6VzzNDwUwV)  
+🐞 **Found an issue?** [Report it here](https://github.com/remotion-dev/remotion/issues/new)  
 
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
+---
 
-## Issues
+## 🏢 Licensing  
+🔹 Some entities may require a **company license**. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).  
 
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
+🚀 Now go ahead and create **stunning videos with code!** 🎥✨  
 
-## License
-
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+---
